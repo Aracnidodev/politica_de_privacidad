@@ -8,10 +8,7 @@ Listas IPTV Luna no recopila, almacena ni comparte ningún tipo de información 
 
 2. Uso de servicios de terceros
 
-La app puede utilizar servicios de terceros como AdMob para mostrar anuncios. Estos servicios pueden recopilar información anónima para mostrar publicidad relevante. Consulta las políticas de privacidad de los servicios utilizados:
-
-Política de privacidad de Google AdMob
-
+La app puede utilizar servicios de terceros como AdMob para mostrar anuncios. Estos servicios pueden recopilar información anónima para mostrar publicidad relevante.
 
 3. Permisos de la aplicación
 
