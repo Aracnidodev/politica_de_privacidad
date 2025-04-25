@@ -1,4 +1,4 @@
-# politica_de_privacidad.md
+# Politica de privacidad
 
 Gracias por utilizar Listas IPTV Luna. Tu privacidad es importante para nosotros. Esta Política de Privacidad describe cómo recopilamos, usamos y protegemos tu información al usar nuestra aplicación.
 
