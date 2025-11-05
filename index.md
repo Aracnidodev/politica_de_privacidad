@@ -2,4 +2,4 @@
 
 ## [Interés Compuesto Calculadora](./politicas-privacidad/interes-compuesto-calculadora.md)
 
-## [Listas Iptv](./politicas-privacidad/tu-otra-app.md)
+## [Listas Iptv](./politicas-privacidad/listas-iptv-app.md)
